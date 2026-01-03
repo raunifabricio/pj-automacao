@@ -9,4 +9,4 @@ Scenario Outline: "<cenario>"
 
     Examples:
         | cenario           | email               | senha    | mensagem                 | 
-        | Login com sucesso | user@phptravels.com | demouser | com sucesso na aplicacao |
+        | Login com sucesso | user@phptravels.com | demouser | Login com sucesso na aplicacao |
